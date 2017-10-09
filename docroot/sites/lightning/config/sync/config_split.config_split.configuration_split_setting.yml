@@ -1,0 +1,15 @@
+uuid: 2cd25ef5-1f7b-40ff-999c-cae8e9c61852
+langcode: en
+status: true
+dependencies: {  }
+id: configuration_split_setting
+label: 'Configuration Split Setting'
+folder: ''
+module:
+  devel: 0
+theme: {  }
+blacklist: {  }
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0
